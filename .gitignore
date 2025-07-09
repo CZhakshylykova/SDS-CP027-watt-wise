@@ -10,3 +10,4 @@ env/
 ENV/
 watt_wise_e
 submissions/team/Oluwatunmise-Olaoluwa/requirements.txt
+.devcontainer/
